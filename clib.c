@@ -1,3 +1,7 @@
+/*
+	Copyright (c) Chems Eddine h1t8re from 06/02/1996 After Jesus Christe. 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
